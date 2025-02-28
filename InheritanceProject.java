@@ -17,7 +17,6 @@ public class InheritanceProject {
     }
 }
 
-// Base class demonstrating encapsulation (private fields with getter/setter)
 class NumberData {
     private int number;
     
